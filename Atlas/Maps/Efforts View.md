@@ -9,6 +9,7 @@ tags:
 ---
 Keep your priorities in order. Quickly adjust your bandwidth as needed. 
 
+
 > [!Box]+ 🔥 On
 > ``` dataview
 > TABLE WITHOUT ID
