@@ -51,7 +51,11 @@ created: 2026-02-05
 
 ### Knowledge workflows
 
+### Mocs
+Main note: [[+ About Maps|MOCs]] 
+
+MOCs can be created in two ways
 - **Top‑down:*- start from a map or index note and branch into notes.
 - **Bottom‑up:*- create individual notes first, then synthesize into maps.
 
-
+see this example: [[Example MOC (habits map)]]
